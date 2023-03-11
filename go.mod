@@ -1,4 +1,4 @@
-module github.com/cocoide/planify
+module github.com/cocoide/golang-template
 
 go 1.19
 
